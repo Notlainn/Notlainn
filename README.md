@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, you can call me Zany </h1>
 <p align="center">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif">
+  <img src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
 </p>
 
 <div align="center">
