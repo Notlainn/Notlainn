@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, you can call me Zany </h1>
+<h1 align="center"></h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
 </p>
 
 <div align="center">
-  I am currently transitioning to the field of Ethical Hacking and Cybersecurity, with a focus on Pentesting and Vulnerability Identification. Additionally, I am a Physical Education and Artistic/Gymnastics teacher.
+  
 
  
 </div>
@@ -17,11 +17,11 @@
 ---
 <div>
   <p align="center">
-    <a href="Https://linkedin.com/in/gabriel-zanelato-89a7452aa/" >
-      <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href=>
+      <img height="30em" src="" />
     </a>
     <a href="https://tryhackme.com/p/GaahZanelato">
-      <img height="30em" src="https://tryhackme-badges.s3.amazonaws.com/GaahZanelato.png" alt="TryHackMe">
+      <img height="30em" src="">
     </a>
   </p>
 </div> 
