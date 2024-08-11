@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi there, you can call me Zany </h1>
+<p align="center">
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif">
+</p>
 
-<!--
-**Notlainn/Notlainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  I am currently transitioning to the field of Ethical Hacking and Cybersecurity, with a focus on Pentesting and Vulnerability Identification. Additionally, I am a Physical Education and Artistic/Gymnastics teacher.
 
-Here are some ideas to get you started:
+ 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="160em" src="https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/c_fill,q_auto:best,f_auto,e_unsharp_mask:80,w_828,h_400/Cyber%20Security%2Fwhite-hat-hacker-csc_oxqe7b" />
+
+</div>
+
+---
+<div>
+  <p align="center">
+    <a href="Https://linkedin.com/in/gabriel-zanelato-89a7452aa/" >
+      <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://tryhackme.com/p/GaahZanelato">
+      <img height="30em" src="https://tryhackme-badges.s3.amazonaws.com/GaahZanelato.png" alt="TryHackMe">
+    </a>
+  </p>
+</div> 
+
+
+</p>
