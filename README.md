@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/28/e4/5c/28e45c1b72c6fa4a68dae186fb533a98.gif">
 </p>
 
-<div align="center">
+<div align="">
   a student passionate about cybersecurity. I'm always exploring new ways to protect systems and data, and I love sharing what I learn through projects and collaborations. In my repository, you'll find everything from security tools to scripts for automating tasks. Let's work together to make the digital world safer!
 
 🔒 Specialties:
