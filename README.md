@@ -24,7 +24,7 @@
 <div>
   <p align="center">
     <a href="https://www.linkedin.com/in/filipe-ortega-148653294/">
-      <script src="https://tryhackme.com/badge/2284979"></script>
+      <script src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></script>
     </a>
     <a href="https://tryhackme.com/p/Laain">
       <img height="30em" src="https://tryhackme-badges.s3.amazonaws.com/Laain.png" alt="TryHackMe">
