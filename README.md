@@ -1,6 +1,6 @@
 <h1 align="center">Hello!!, i'm La/in</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
+  <img src="https://i.pinimg.com/originals/28/e4/5c/28e45c1b72c6fa4a68dae186fb533a98.gif">
 </p>
 
 <div align="center">
