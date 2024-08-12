@@ -24,10 +24,10 @@
 <div>
   <p align="center">
     <a href="https://www.linkedin.com/in/filipe-ortega-148653294/">
-      <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img height="60em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://tryhackme.com/p/Laain">
-      <img height="30em" src="https://tryhackme-badges.s3.amazonaws.com/Laain.png" alt="TryHackMe">
+      <img height="60em" src="https://tryhackme-badges.s3.amazonaws.com/Laain.png" alt="TryHackMe">
     </a>
   </p>
 </div> 
