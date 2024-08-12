@@ -4,16 +4,16 @@
 </p>
 
 <div align="">
-  a student passionate about cybersecurity. I'm always exploring new ways to protect systems and data, and I love sharing what I learn through projects and collaborations. In my repository, you'll find everything from security tools to scripts for automating tasks. Let's work together to make the digital world safer!
+<p>I'm a student passionate about cybersecurity. I'm always exploring new ways to protect systems and data, and I love sharing what I learn through projects and collaborations. In my repository, you'll find everything from security tools to scripts for automating tasks. Let's work together to make the digital world safer!</p>
 
-🔒 Specialties:
+<h2>🔒 Specialties:</h2>
+<ul>
+  <li>Vulnerability analysis</li>
+  <li>Penetration testing</li>
+  <li>Security automation</li>
+</ul>
 
-Vulnerability analysis
-Penetration testing
-Security automation
-🚀 Currently focused on improving my skills in [specific technology/language or tool] and contributing to open-source projects.
-
-
+<p>🚀 Currently focused on improving my skills in <em>[specific technology/language or tool]</em> and contributing to open-source projects.</p>
 </div>
 
 <div align="center">
