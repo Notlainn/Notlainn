@@ -23,8 +23,8 @@
 ---
 <div>
   <p align="center">
-    <a href=>
-      <img height="30em" src="https://www.linkedin.com/in/filipe-ortega-148653294/" />
+    <a href="https://www.linkedin.com/in/filipe-ortega-148653294/">
+      <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://tryhackme.com/p/GaahZanelato">
       <img src="https://tryhackme-badges.s3.amazonaws.com/Laain.png" alt="TryHackMe">
