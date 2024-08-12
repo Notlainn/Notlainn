@@ -10,7 +10,6 @@
 <ul>
   <li>Vulnerability analysis</li>
   <li>Penetration testing</li>
-  <li>Security automation</li>
 </ul>
 
 <p>🚀 Currently focused on improving my skills in <em>[specific technology/language or tool]</em> and contributing to open-source projects.</p>
@@ -25,10 +24,10 @@
 <div>
   <p align="center">
     <a href=>
-      <img height="30em" src="" />
+      <img height="30em" src="https://www.linkedin.com/in/filipe-ortega-148653294/" />
     </a>
     <a href="https://tryhackme.com/p/GaahZanelato">
-      <img height="30em" src="">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Laain.png" alt="TryHackMe">
     </a>
   </p>
 </div> 
