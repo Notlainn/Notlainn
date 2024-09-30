@@ -10,6 +10,7 @@
 <ul>
   <li>Vulnerability analysis</li>
   <li>Penetration testing</li>
+  <li>Cloud Red Team Operations</li>
 </ul>
 
 <p>🚀 Currently focused on improving my skills in <em>[specific technology/language or tool]</em> and contributing to open-source projects.</p>
