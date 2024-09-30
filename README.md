@@ -13,7 +13,7 @@
   <li>Cloud Red Team Operations</li>
 </ul>
 
-<p>🚀 Currently focused on improving my skills in <em>[specific technology/language or tool]</em> and contributing to open-source projects.</p>
+<p>🚀 Currently focused on improving my skills in <em>[Pentest]</em>.</p>
 </div>
 
 <div align="center">
